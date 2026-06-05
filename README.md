@@ -1,51 +1,48 @@
-<h1 align="center">
-  Hi 👋, I'm Mohammed Sabeer
-</h1>
+<h1 align="center">Hi 👋, I'm Mohammed Sabeer</h1>
 
 <h3 align="center">
-  MERN Stack Developer | Backend Enthusiast | Problem Solver
+MERN Stack Developer | Building Modern Web Applications
 </h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Node.js+%7C+Express.js+%7C+MongoDB;React.js+Frontend+Developer;Building+Scalable+Web+Applications;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=600&lines=MERN+Stack+Developer;Backend+Developer;React+%7C+Node+%7C+MongoDB;Always+Learning+New+Things" />
 </p>
+
+<div align="center">
+<img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="350"/>
+</div>
 
 ---
 
-<img align="right" alt="coding" width="350" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+## 👨‍💻 About Me
 
-## 🚀 About Me
+🚀 MERN Stack Developer
 
-- 🔭 Currently building Full Stack MERN Applications
-- 🌱 Learning Advanced Backend Development
-- 💡 Passionate about REST APIs & Authentication
-- 📚 Practicing Data Structures & Algorithms
-- 🎯 Goal: Become a Professional Software Engineer
-- ⚡ Fun Fact: I love solving real-world problems with code
+💻 Passionate about Backend Development
 
-<br clear="both">
+🌱 Currently Learning Advanced Node.js & System Design
+
+📚 Solving DSA Problems Daily
+
+🎯 Goal: Become a Software Engineer
 
 ---
 
 ## 🛠 Tech Stack
 
-### Frontend
+<div align="center">
 
-<p>
-<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind,vite" />
-</p>
+<img src="https://skillicons.dev/icons?i=html,css,js,react,redux,tailwind" />
 
-### Backend
+<br><br>
 
-<p>
 <img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,firebase" />
-</p>
 
-### Tools
+<br><br>
 
-<p>
 <img src="https://skillicons.dev/icons?i=git,github,vscode,postman" />
-</p>
+
+</div>
 
 ---
 
@@ -53,57 +50,33 @@
 
 ### 🛒 SBR E-Commerce
 
-A Full Stack MERN E-Commerce Platform
+Full Stack E-Commerce Platform built using MERN Stack.
 
-### Features
+### Key Features
 
-✅ JWT Authentication
-
-✅ Admin Dashboard
-
-✅ Product Management
-
-✅ Cart Management
-
-✅ Order Management
-
-✅ Responsive UI
+- JWT Authentication
+- Product Management
+- Shopping Cart
+- Wishlist
+- Order Management
+- Admin Dashboard
+- Cloudinary Upload
+- Responsive Design
 
 ### Live Demo
 
 🔗 https://sbr-ecom-h2dk.vercel.app
 
-### Technologies Used
-
-MongoDB • Express.js • React.js • Node.js • Redux Toolkit • JWT • Cloudinary
-
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Stats
 
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=mohammedsabeerk&show_icons=true&theme=tokyonight&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedsabeerk&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
 
-<p align="center">
-<img src="https://github-readme-streak-stats.herokuapp.com?user=mohammedsabeerk&theme=tokyonight&hide_border=true" />
-</p>
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=mohammedsabeerk&show_icons=true&theme=github_dark&hide_border=true"/>
 
----
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammedsabeerk&layout=compact&theme=github_dark&hide_border=true"/>
 
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=mohammedsabeerk&theme=tokyonight&no-frame=true&row=1&column=7" />
-</p>
-
----
-
-## 📈 Contribution Graph
-
-<p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammedsabeerk&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -112,34 +85,26 @@ MongoDB • Express.js • React.js • Node.js • Redux Toolkit • JWT • Cl
 
 <p align="center">
 
+<a href="mailto:mohammedsabeerk06@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" />
+</a>
+
 <a href="https://github.com/mohammedsabeerk">
-<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github"/>
+<img src="https://skillicons.dev/icons?i=github" />
 </a>
 
 <a href="https://www.linkedin.com/in/mohammed-sabeer-k-02416437a/">
-<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-</a>
-
-<a href="mailto:mohammedsabeerk06@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
+<img src="https://skillicons.dev/icons?i=linkedin" />
 </a>
 
 </p>
 
 ---
-
-## 💻 Profile Views
 
 <p align="center">
-<img src="https://komarev.com/ghpvc/?username=mohammedsabeerk&label=Profile%20Views&color=0e75b6&style=flat" />
+<img src="https://komarev.com/ghpvc/?username=mohammedsabeerk&label=Profile+Views&color=blue"/>
 </p>
-
----
 
 <h3 align="center">
 ⭐ Thanks for visiting my profile ⭐
 </h3>
-
-<h4 align="center">
-🚀 Building Projects • Learning Daily • Growing Consistently
-</h4>
